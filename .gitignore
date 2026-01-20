@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.egg-info
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# Test notebook
+__test.ipynb
+
+# Virtual environments
+.venv
+
+# environments
+.env
+
+# Data, Database
+/vector_store/
+/models/
+/meta

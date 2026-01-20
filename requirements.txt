@@ -1,0 +1,23 @@
+# Core Framework
+langchain>=0.2.0
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+
+# Vector DB & Embeddings
+chromadb
+langchain-chroma
+sentence-transformers
+langchain-huggingface
+huggingface-hub
+
+# Data Processing
+pandas
+tabulate
+openpyxl
+
+# Utilities
+python-dotenv
+pydantic
+pyyaml
